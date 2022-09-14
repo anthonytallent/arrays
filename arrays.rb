@@ -11,3 +11,9 @@ ticket_prices.shift
 venmo_balances.push (27.65)
 # This will add an element to the begining of the booleans array
 booleans.unshift (false)
+
+#students(0) is Henry ticket_prices(3) is 270
+#venmo_balances(1) is 457.32 booleans(2) is false
+
+#To check if something is included in an array, use .include?
+students.include? (Sam)
